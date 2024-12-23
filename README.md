@@ -75,7 +75,7 @@ The library supports various configuration options through its API:
 
 ## License
 
--- FREE AS IN BEER! --[
+-- FREE AS IN BEER! --
 
 ## Contributing
 
