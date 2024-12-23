@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'examples/z80_ctc_example'
+relocations:     []
+...
